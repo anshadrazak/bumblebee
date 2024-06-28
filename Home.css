@@ -1,10 +1,10 @@
  .u-section-1 {
   background-image: url("images/mainbg.png");
-  background-position: 50% 50%;
+  background-position: 32.61% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 841px;
+  min-height: 714px;
 }
 
 .u-section-1 .u-shape-1 {
@@ -87,7 +87,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 693px;
+    min-height: 589px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -111,7 +111,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 531px;
+    min-height: 451px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -132,7 +132,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 398px;
+    min-height: 338px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -151,10 +151,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    background-position: 18.22% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 472px;
   }
